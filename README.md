@@ -1,3 +1,3 @@
 # module-example
 
-npm stall
+npm install
